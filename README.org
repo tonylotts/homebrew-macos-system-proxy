@@ -1,0 +1,6 @@
+* Install [[https://github.com/tonylotts/macos-system-proxy][macOS-system-proxy]], using Homebrew
+
+** Usage
+#+BEGIN_SRC shell
+  brew install tonylotts/macos-system-proxy
+#+END_SRC
